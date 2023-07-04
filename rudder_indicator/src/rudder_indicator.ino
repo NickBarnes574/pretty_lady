@@ -4,8 +4,8 @@
 #define D9 9            // Digital pin used to connect the servo
 #define POT_MAX 1023    // Maximum value of the potentiometer
 #define POT_MIN 0       // Minimum value of the potentiometer
-#define SERVO_MAX 180   // Maximum value of the servo
-#define SERVO_MIN 0     // Minimum value of the servo
+#define SERVO_MAX 165   // Maximum value of the servo
+#define SERVO_MIN 5     // Minimum value of the servo
 #define MILLISECONDS 15 // Amount of time for the servo to update postion
 
 // create servo object to control a servo
